@@ -142,8 +142,8 @@
         <mxCell id="DJQ2heJ6GVxLAJbuLJFr-58" value="Communicates successful transactions to the system" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=-25;fontSize=16;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="685" y="340" width="400" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="DJQ2heJ6GVxLAJbuLJFr-60" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 33px;&quot;&gt;USE CASE DIAGRAM FOR DYNAMIC FEE MANAGEMENT SYSTEM&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-190" y="-90" width="1070" height="50" as="geometry" />
+        <mxCell id="DJQ2heJ6GVxLAJbuLJFr-60" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 44px;&quot;&gt;USE CASE DIAGRAM FOR DYNAMIC FEE MANAGEMENT SYSTEM&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-365" y="-100" width="1420" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
