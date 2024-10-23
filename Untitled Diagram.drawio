@@ -1,0 +1,70 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.8.0">
+  <diagram name="Page-1" id="fwvs4iFDCrs0Pi2SV4-E">
+    <mxGraphModel dx="1687" dy="925" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="7MzRE1XrLqYPuFOFrTI6-1" value="&lt;b&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;STUDENT&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="30" y="70" width="190" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="dlNBPW3jmc3Tmm9AQNGS-6" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="240" y="110" as="sourcePoint" />
+            <mxPoint x="540" y="110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dlNBPW3jmc3Tmm9AQNGS-7" value="Payment details&amp;nbsp;&lt;div&gt;(tuition, accommodation, etc.)&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="270" y="52" width="230" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="dlNBPW3jmc3Tmm9AQNGS-17" value="&lt;span style=&quot;font-size: 16px; font-weight: 700;&quot;&gt;ONLINE PAYMENT PORTAL&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="65.75" width="133.5" height="88.5" as="geometry" />
+        </mxCell>
+        <mxCell id="dlNBPW3jmc3Tmm9AQNGS-20" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="700" y="109.5" as="sourcePoint" />
+            <mxPoint x="870" y="110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dlNBPW3jmc3Tmm9AQNGS-21" value="&lt;span style=&quot;font-size: 16px; font-weight: 700;&quot;&gt;BURSARY DEPARTMENT&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="880" y="65.75" width="133.5" height="88.5" as="geometry" />
+        </mxCell>
+        <mxCell id="dlNBPW3jmc3Tmm9AQNGS-22" value="Payment receipt" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="718" y="71" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dlNBPW3jmc3Tmm9AQNGS-23" value="&lt;b&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;BANK RECORDS FOR CROSS VERIFICATION&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1200" y="74.25" width="190" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="dlNBPW3jmc3Tmm9AQNGS-24" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1020" y="109.5" as="sourcePoint" />
+            <mxPoint x="1190" y="110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dlNBPW3jmc3Tmm9AQNGS-25" value="Payment details" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="1030" y="66.75" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dlNBPW3jmc3Tmm9AQNGS-26" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="962" y="180" as="sourcePoint" />
+            <mxPoint x="962" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dlNBPW3jmc3Tmm9AQNGS-27" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;DATABASE&lt;/b&gt;&lt;/font&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;FOR&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;STORAGE&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="891.75" y="448.5" width="110" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="dlNBPW3jmc3Tmm9AQNGS-28" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Fee information&amp;nbsp;&lt;/font&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;(student records, payments)&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=-90;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="880" y="270" width="220" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="dlNBPW3jmc3Tmm9AQNGS-29" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="940" y="430" as="sourcePoint" />
+            <mxPoint x="940" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dlNBPW3jmc3Tmm9AQNGS-30" value="Reconcile Records" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=90;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="827" y="290" width="160" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
