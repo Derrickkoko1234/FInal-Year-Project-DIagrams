@@ -1,17 +1,66 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.8.1">
   <diagram name="Page-1" id="m---_6C_hGaj8hvCDt1C">
-    <mxGraphModel>
+    <mxGraphModel dx="3217" dy="1310" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="2" value="User Interface (UI)" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="8" y="8" width="177" height="117" as="geometry" />
+        <mxCell id="Q1R0QLJVoFyFUahoe8BN-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Q1R0QLJVoFyFUahoe8BN-4" target="Q1R0QLJVoFyFUahoe8BN-21">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <UserObject label="Rectangle" link="./mobile-portal" id="3">
-          <mxCell style="rounded=1;arcSize=40;strokeWidth=2" vertex="1" parent="2">
-            <mxGeometry x="46" y="43" width="102" height="47" as="geometry" />
-          </mxCell>
-        </UserObject>
+        <mxCell id="Q1R0QLJVoFyFUahoe8BN-4" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;&lt;b&gt;BANKS&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="810" y="750" width="200" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Q1R0QLJVoFyFUahoe8BN-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Q1R0QLJVoFyFUahoe8BN-5" target="Q1R0QLJVoFyFUahoe8BN-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Q1R0QLJVoFyFUahoe8BN-5" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;&lt;b&gt;CENTRALIZED FEE DATABASE&lt;/b&gt;&lt;/font&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="560" y="870" width="126" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="Q1R0QLJVoFyFUahoe8BN-6" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;&lt;b&gt;REPORTING AND ANALYSIS&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="915" width="220" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Q1R0QLJVoFyFUahoe8BN-8" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;&lt;b&gt;USER INTERFACE AND EXPERIENCE&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="810" y="1090" width="200" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Q1R0QLJVoFyFUahoe8BN-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Q1R0QLJVoFyFUahoe8BN-19" target="Q1R0QLJVoFyFUahoe8BN-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Q1R0QLJVoFyFUahoe8BN-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Q1R0QLJVoFyFUahoe8BN-19" target="Q1R0QLJVoFyFUahoe8BN-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Q1R0QLJVoFyFUahoe8BN-19" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;&lt;b&gt;BURSARY&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="450" width="200" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Q1R0QLJVoFyFUahoe8BN-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Q1R0QLJVoFyFUahoe8BN-21" target="Q1R0QLJVoFyFUahoe8BN-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Q1R0QLJVoFyFUahoe8BN-21" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;&lt;b&gt;STUDENTS&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="810" y="920" width="200" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Q1R0QLJVoFyFUahoe8BN-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Q1R0QLJVoFyFUahoe8BN-22" target="Q1R0QLJVoFyFUahoe8BN-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Q1R0QLJVoFyFUahoe8BN-22" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;&lt;b&gt;FEE STRUCTURE CONFIGURATION&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="585" width="200" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Q1R0QLJVoFyFUahoe8BN-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Q1R0QLJVoFyFUahoe8BN-23" target="Q1R0QLJVoFyFUahoe8BN-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Q1R0QLJVoFyFUahoe8BN-23" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;&lt;b&gt;FEE COLLECTION AND PAYMENT&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="810" y="585" width="200" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Q1R0QLJVoFyFUahoe8BN-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Q1R0QLJVoFyFUahoe8BN-24" target="Q1R0QLJVoFyFUahoe8BN-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Q1R0QLJVoFyFUahoe8BN-24" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;&lt;b&gt;FEE RECORDS MANAGEMENT&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="750" width="200" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Q1R0QLJVoFyFUahoe8BN-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Q1R0QLJVoFyFUahoe8BN-6" target="Q1R0QLJVoFyFUahoe8BN-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Q1R0QLJVoFyFUahoe8BN-36" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 44px;&quot;&gt;HIGH LEVEL MODEL DIAGRAM OF THE PROPOSED SYSTEM&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-50" y="300" width="1310" height="70" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
